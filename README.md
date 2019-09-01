@@ -1,6 +1,5 @@
 ![Sougr server](http://www.sougr.com/img/logo.png)
 
-![Sougr server](https://travis-ci.com/bellaj/sougr_server.svg?token=NmkfqQwXn8gMnC6S16DS&branch=master)
 ## Overview
 Sougr server is a blockchain payment API for developers.
 
